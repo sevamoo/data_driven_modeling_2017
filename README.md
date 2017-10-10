@@ -13,7 +13,7 @@ Similar to the way engineering students need to learn calculus and differential 
 
 **Course tutor:** [Vahid Moosavi](www.vahidmoosavi.com)
 
-![](images/orthogonal.png)
+![](Images/orthogonal.png)
 
 # Course Materials 
 The materials in this semester are mainly from the last year with some modifications. This repository will be updated on a weekly basis.
