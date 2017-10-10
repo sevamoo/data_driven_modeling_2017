@@ -13,8 +13,6 @@ Similar to the way engineering students need to learn calculus and differential 
 
 **Course tutor:** [Vahid Moosavi](www.vahidmoosavi.com)
 
-[Github Code Repository](https://github.com/sevamoo/data_driven_modeling) 
-
 ![](images/orthogonal.png)
 
 # Course Materials 
